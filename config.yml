@@ -1,14 +1,14 @@
 # This has to be an integer. Read more [here](https://core.telegram.org/api/obtaining_api_id) | No quotes
-api_id: 12233509
+api_id: 
 
 # Long 32 characters hash identifier. Read more [here](https://core.telegram.org/api/obtaining_api_id) | With quotes
-api_hash: 'd4ca1e890630bffdd34ec59028c6e9b0' 
+api_hash: '' 
 
 # Session name. Only one session (with a unique session name) can run at a time | With quotes
 session_name: 'forwardgram' 
 
 # Discord Bot Token. Go create a bot on discord. | No quotes
-discord_bot_token: 'MTAwNDM2NTc2MDUwMTY1MzUzNA.GBJHOQ.i5aVMxWS8wsdEZH_yqZvMBfSmV7T6wG9ZhbOjM'
+discord_bot_token: ''
 
 # Discord Channels | No quotes
 discord_1_channel: ************************
